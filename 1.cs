@@ -73,7 +73,7 @@ namespace SECP.Biz.MainAssy.Programs
 
         public override string Description
         {
-            get { return "BMS Assy 판정 실처리 데이터 보고"; }
+            get { return "BMS Assy 판정 실처리 데이터 보고1111222"; }
         }
         public override bool Enable
         {
